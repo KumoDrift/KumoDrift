@@ -1,69 +1,65 @@
-<!-- 🌸🌿 Peaceful Aesthetic GitHub Profile -->
+<!-- 🌿 Calm • Professional • DevOps Profile -->
 
 <h1 align="center">☁️ Kumodrift</h1>
-<h3 align="center">🕊️ Monu Mandal | DevOps • Security • Cloud Explorer</h3>
+<h3 align="center">🕊️ Monu Mandal • DevOps & Security Enthusiast</h3>
 
 <p align="center">
-  <i>“Drifting like clouds, building with purpose, securing with precision.”</i>
+  <i>“Building reliable systems, automating with purpose, securing with care.”</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Learner;Security+Researcher;Cloud+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=8FBFA3&center=true&vCenter=true&width=500&lines=DevOps+Learner;Security+Researcher;Cloud+Explorer;Clean+Code+%7C+Reliable+Systems">
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌿 About Me
 
-👋 Hi, I’m **Monu**  
-🎓 BCA Graduate  
+🎓 **BCA Graduate**  
+💻 Started with full-stack development  
+⚙️ Now focused on **DevOps, cloud infrastructure & system security**
 
-I started my journey with frontend and backend development,  
-but discovered my real passion in **DevOps, automation, and security**.
+I enjoy working on what happens **after code is written**:
+deployment, automation, scalability, and protecting systems.
 
-I love working on what happens *after coding*:
-⚙️ deployment • 🐳 containers • ☁️ infrastructure • 🛡️ security
-
-> 🌿 *“I may not know everything, but I know how to learn, debug, and improve.”*
+> 🕊️ *“I don’t know everything — but I know how to learn, debug, and improve consistently.”*
 
 ---
 
-## ⚙️ Currently Learning & Building
+## ⚙️ Skills & Tools
 
-<p>
-🐳 Docker &nbsp;&nbsp;
-☸️ Kubernetes &nbsp;&nbsp;
-⚙️ CI/CD Pipelines &nbsp;&nbsp;
-☁️ Cloud Platforms
-</p>
+- **DevOps:** CI/CD, Docker, Kubernetes (learning)
+- **Cloud:** AWS / Azure / GCP (foundations)
+- **Development:** HTML, CSS, JavaScript, Git
+- **Security:** Bug bounty, vulnerability testing, responsible disclosure
 
 ---
 
 ## 🛡️ Security Research
 
-- 🔐 Bug bounty programs  
-- 🧪 Finding vulnerabilities  
-- 📢 Responsible disclosure  
-- 🛡️ Helping improve system security  
+- 🔐 Participating in **bug bounty programs**
+- 🧪 Identifying and reporting vulnerabilities
+- 📢 Practicing **responsible disclosure**
+- 🛡️ Helping improve real-world application security
 
 ---
 
-## 🌐 Interests
+## 🌱 Currently Growing In
 
-🏗️ System Design  
-🌐 Full-Stack Development  
-☁️ Cloud Infrastructure  
-🤖 GenAI for development  
+- Scalable **Kubernetes deployments**
+- Real-world **CI/CD pipelines**
+- Cloud architecture fundamentals
+- Secure DevOps practices (DevSecOps)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumodrift&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumodrift&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -71,36 +67,34 @@ I love working on what happens *after coding*:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,kubernetes,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,js,html,css,vscode" />
 </p>
 
 ---
 
-## 🕊️ Philosophy
+## 💼 Career Goal
 
-> Keep code **clean like the sky** ☁️  
-> Keep logic **clear like water** 🌊  
-> Keep learning **endless like the horizon** 🌙  
+🚀 I’m seeking opportunities as a **Software / DevOps Engineer**  
+where I can **learn, contribute, and build reliable systems at scale.**
+
+---
+
+## 🕊️ Work Philosophy
+
+- Write **clean and maintainable code**
+- Build **stable and observable systems**
+- Automate **everything repeatable**
+- Keep learning **continuously**
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/Kumodrift  
-- 📧 Email: your-email@example.com  
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+- 📧 Email: monumandel3@gmail.com  
 
 ---
 
 <p align="center">
-  🌿 Thanks for visiting my profile  
-  <br><br>
-  ⭐ Always learning • Always building • Always improving
+  🌿 Calm mind • Clean code • Secure systems
 </p>
