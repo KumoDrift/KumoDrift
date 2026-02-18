@@ -9,15 +9,17 @@
 
 ---
 
+<!-- 🌙 Typing animation (soft green tone) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=8FBFA3&center=true&vCenter=true&width=500&lines=DevOps+Learner;Security+Researcher;Cloud+Explorer;Clean+Code+%7C+Reliable+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=7FBF9F&center=true&vCenter=true&width=520&lines=DevOps+Learner;Security+Researcher;Cloud+Explorer;Clean+Code+%7C+Reliable+Systems">
 </p>
 
 ---
 
-## 🌿 About Me
+##  🌸  About Me
 
-🎓 **BCA Graduate**  
+👋 Hi, I’m **Monu**  
+🎓 BCA Graduate 
 💻 Started with full-stack development  
 ⚙️ Now focused on **DevOps, cloud infrastructure & system security**
 
@@ -58,8 +60,16 @@ deployment, automation, scalability, and protecting systems.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumodrift&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumodrift&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph (Animated Style)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumodrift&theme=github-compact&hide_border=true&area=true">
 </p>
 
 ---
