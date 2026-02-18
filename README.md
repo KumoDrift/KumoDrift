@@ -57,11 +57,11 @@ deployment, automation, scalability, and protecting systems.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumodrift&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumodrift&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumodrift&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
